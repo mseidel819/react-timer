@@ -1,28 +1,3 @@
-.container {
-  background-color: #9bd9a6;
-  padding: 3rem;
-  margin: 0 auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
-  border-radius: 10px;
-}
-
-h1 {
-  font-size: 3rem;
-  margin-bottom: 2rem;
-}
-span {
-  font-size: 2rem;
-}
-
-.set-time-section {
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-  gap: 3rem;
-}
 .set-time-chunk {
   display: flex;
   flex-direction: column;
