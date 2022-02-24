@@ -25,7 +25,9 @@ span {
 }
 .set-time-chunk {
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
+  gap: 3rem;
+
   justify-content: center;
   align-items: center;
 }
@@ -71,8 +73,4 @@ span {
 }
 .stop-go-btn {
   font-size: 2.4rem;
-}
-
-.hidden {
-  display: none;
 }
